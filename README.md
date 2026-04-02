@@ -185,5 +185,5 @@ rohit.korlahalli21@gmail.com
 Repository:
 
 ```
-https://github.com/rokorlahalli/unleash-assessment
+https://github.com/rokorlahalli/rk-multi-region-tf.git
 ```
