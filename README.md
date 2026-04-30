@@ -1,4 +1,4 @@
-# AWS Multi-Region Infrastructure Assessment
+# AWS Multi-Region Infrastructure Terraform
 
 This repository contains an **Infrastructure-as-Code solution using Terraform** that deploys a serverless architecture across two AWS regions:
 
